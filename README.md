@@ -3,7 +3,7 @@
 
 A cutting-edge platform that generates unique, blockchain-powered narrative experiences through advanced generative AI capabilities. Create, evolve, and own dynamic story NFTs that grow and change over time.
 
-![NFT Stories Features](client/public/images/Screenshot_20250201_011307.png)
+![NFT Stories Features](client/Screenshot_20250201_011307.png)
 
 ## 🌟 Key Features
 
@@ -13,7 +13,7 @@ A cutting-edge platform that generates unique, blockchain-powered narrative expe
 - **AI-Powered Story Generation**: Create unique narratives using advanced AI models
 - **ERC-7007 NFTs**: Mint your stories as evolving NFTs on the Ethereum network
 
-![Story Creation Interface](client/public/images/Screenshot_20250201_011419.png)
+![Story Creation Interface](client/Screenshot_20250201_011419.png)
 
 ## 📖 Story Experience
 
@@ -24,7 +24,7 @@ Each story features:
 - Multiple unique narrative paths
 - Beautiful illustrations
 
-![Story Reader Interface](client/public/images/Screenshot_20250201_011525.png)
+![Story Reader Interface](client/Screenshot_20250201_011525.png)
 
 ## 🛠️ Tech Stack
 
